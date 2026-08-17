@@ -1,0 +1,10 @@
+tensorflow
+streamlit
+plotly
+scikit-learn
+umap-learn
+numpy
+pandas
+fastapi
+uvicorn[standard]
+filelock
